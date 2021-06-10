@@ -7,7 +7,7 @@ chardet==3.0.4
 cryptoconditions==0.8.0
 cryptography==2.3.1
 dj-database-url==0.5.0
-Django==2.1.11
+Django==2.2.24
 django-cors-headers==2.5.2
 django-heroku==0.3.1
 geographiclib==1.49
